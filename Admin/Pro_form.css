@@ -1,0 +1,20 @@
+.tab{
+    margin: auto;
+    margin-top: 50px;
+    
+
+   
+}
+.head{
+   text-align: center;
+   margin-top: 50px;
+}
+.main_form_div{
+    background-color: white;
+    box-shadow: black 30px;
+    /* margin: 80px 0 0 250px; */
+}
+.border_bottom{
+    width: 95%;
+    margin: auto;
+}
